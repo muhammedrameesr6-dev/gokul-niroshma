@@ -868,6 +868,78 @@ body.light-theme .wish-single-box {
 }
 
 /* ==========================================================================
+   HALDI CEREMONY SECTION
+   Prominent Hindi Heading "हल्दी" + Marigold Yellow Festive Palette
+   ========================================================================== */
+.haldi-hindi-title {
+  font-family: 'Noto Serif Devanagari', 'Rozha One', var(--font-serif);
+  font-size: clamp(3.2rem, 7vw, 4.8rem);
+  font-weight: 700;
+  color: #f5b041;
+  background: linear-gradient(135deg, #fef1b8 0%, #f5b041 50%, #d48b1b 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  letter-spacing: 2px;
+  margin-bottom: 14px;
+}
+
+.haldi-photo-box {
+  position: relative;
+}
+
+.haldi-photo-badge {
+  position: absolute;
+  bottom: 16px;
+  left: 16px;
+  background: rgba(19, 15, 12, 0.85);
+  border: 1px solid rgba(245, 176, 65, 0.4);
+  padding: 6px 16px;
+  border-radius: 9999px;
+  font-family: 'Noto Serif Devanagari', sans-serif;
+  font-size: 0.85rem;
+  color: #f5b041;
+  backdrop-filter: blur(8px);
+}
+
+.haldi-card {
+  border-color: rgba(245, 176, 65, 0.25);
+}
+
+.haldi-card:hover {
+  border-color: rgba(245, 176, 65, 0.5);
+}
+
+.haldi-pin-badge {
+  background: rgba(245, 176, 65, 0.12);
+  color: #f5b041;
+  border-color: rgba(245, 176, 65, 0.3);
+}
+
+.haldi-card-tag {
+  font-size: 0.76rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #f5b041;
+  font-weight: 600;
+  margin-bottom: 6px;
+  display: block;
+}
+
+.haldi-info-list {
+  margin: 18px 0 26px;
+}
+
+.haldi-btn {
+  background-color: #f5b041;
+  box-shadow: 0 6px 20px rgba(245, 176, 65, 0.35);
+}
+
+.haldi-btn:hover {
+  background-color: #f39c12;
+  box-shadow: 0 10px 25px rgba(245, 176, 65, 0.5);
+}
+
+/* ==========================================================================
    RESPONSIVE LAYOUT
    ========================================================================== */
 @media (max-width: 900px) {
