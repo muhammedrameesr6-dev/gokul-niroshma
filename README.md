@@ -17,8 +17,7 @@ A luxury, responsive digital wedding invitation website built with the **Nuptial
 3. **Complete Wedding & Family Details**:
    - **Groom**: Gokul Krishnan, Son of Mr. Gopinath & Mrs. Sumitha Gopinath (*Mathramkott House, P.O. Thamarayoor, Guruvayur*).
    - **Bride**: Nirooshma Manoharan, Daughter of Late Mr. Manoharan & Mrs. Sheeja Manoharan (*Karnamkottu House, P.O. Kakkassery, Thrissur*).
-   - **Contact**: Quick Call & WhatsApp button for +91 7593959841.
-   - **Dates**: Sunday, 6th December 2026 | Malayalam Date: *1202 Vrischikam 20*.
+   - **Dates**: Sunday, 6th December 2026.
    - **Schedule**: Wedding Reception from 6:00 PM to 9:00 PM.
    - **Venue**: Namas International Convention Centre, Wylathur.
    - **Special Message**: *"Your presence and blessings will make the occasion even more special."*
