@@ -1,0 +1,13 @@
+{
+  "name": "gokul-nirooshma-wedding",
+  "version": "1.0.0",
+  "description": "Digital Wedding Celebration Invitation for Gokul Krishnan & Nirooshma Manoharan",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve ."
+  },
+  "keywords": ["wedding", "invitation", "kerala-wedding", "nuptials"],
+  "author": "Gokul & Nirooshma",
+  "license": "MIT"
+}
