@@ -1,6 +1,6 @@
-# The Wedding Celebration of Gokul Krishnan & Nirooshma Manoharan 💍✨
+# The Wedding Celebration of Gokul Krishnan & Niroshma Manoharan 💍✨
 
-A luxury, responsive digital wedding invitation website built with the **Nuptials Blue & Gold** theme for **Gokul Krishnan & Nirooshma Manoharan**.
+A luxury, responsive digital wedding invitation website built with the **Nuptials Blue & Gold** theme for **Gokul Krishnan & Niroshma Manoharan**.
 
 ---
 
@@ -16,7 +16,7 @@ A luxury, responsive digital wedding invitation website built with the **Nuptial
 
 3. **Complete Wedding & Family Details**:
    - **Groom**: Gokul Krishnan, Son of Mr. Gopinath & Mrs. Sumitha Gopinath (*Mathramkott House, P.O. Thamarayoor, Guruvayur*).
-   - **Bride**: Nirooshma Manoharan, Daughter of Late Mr. Manoharan & Mrs. Sheeja Manoharan (*Karnamkottu House, P.O. Kakkassery, Thrissur*).
+   - **Bride**: Niroshma Manoharan, Daughter of Late Mr. Manoharan & Mrs. Sheeja Manoharan (*Karnamkottu House, P.O. Kakkassery, Thrissur*).
    - **Dates**: Sunday, 6th December 2026.
    - **Schedule**: Wedding Reception from 6:00 PM to 9:00 PM.
    - **Venue**: Namas International Convention Centre, Wylathur.
@@ -73,4 +73,4 @@ To publish this website live on Vercel:
    ```bash
    npx vercel --prod
    ```
-   Follow the brief terminal prompts (select current directory, accept defaults). Vercel will give you a live production URL (e.g. `https://gokul-nirooshma-wedding.vercel.app`).
+   Follow the brief terminal prompts (select current directory, accept defaults). Vercel will give you a live production URL (e.g. `https://gokul-niroshma-wedding.vercel.app`).

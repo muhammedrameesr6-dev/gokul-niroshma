@@ -1,7 +1,7 @@
 /**
  * Nuptials Wedding Website Script
  * Matches nuptials-blue template behavior
- * Couple: Gokul Krishnan & Nirooshma Manoharan
+ * Couple: Gokul Krishnan & Niroshma Manoharan
  * Date: Sunday, December 6, 2026
  */
 
@@ -122,12 +122,12 @@ function initCountdownTimer() {
 function initWishes() {
   const form = document.getElementById('wishes-form');
   const list = document.getElementById('wishes-list');
-  const storageKey = 'nuptials_gokul_nirooshma_wishes_v2';
+  const storageKey = 'nuptials_gokul_niroshma_wishes_v2';
 
   const defaultWishes = [
     {
       name: 'Meenakshi Gopinath',
-      message: 'So happy for Gokul and Nirooshma! Wishing both of you a wonderful married life filled with laughter and immense joy.'
+      message: 'So happy for Gokul and Niroshma! Wishing both of you a wonderful married life filled with laughter and immense joy.'
     }
   ];
 
