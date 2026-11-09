@@ -122,23 +122,22 @@ function initCountdownTimer() {
 function initWishes() {
   const form = document.getElementById('wishes-form');
   const list = document.getElementById('wishes-list');
-  const storageKey = 'nuptials_gokul_nirooshma_wishes';
+  const storageKey = 'nuptials_gokul_nirooshma_wishes_v2';
 
   const defaultWishes = [
     {
       name: 'Meenakshi Gopinath',
       message: 'So happy for Gokul and Nirooshma! Wishing both of you a wonderful married life filled with laughter and immense joy.'
-    },
-    {
-      name: 'Suresh & Family',
-      message: 'Heartiest congratulations to the lovely couple. Looking forward to celebrating on December 6th at Namas Convention Centre!'
     }
   ];
 
   function getWishes() {
     try {
       const stored = localStorage.getItem(storageKey);
-      if (stored) return JSON.parse(stored);
+      if (stored) {
+        const parsed = JSON.parse(stored);
+        return parsed.filter(item => !item.name.includes('Suresh'));
+      }
     } catch (_) {}
     return defaultWishes;
   }
