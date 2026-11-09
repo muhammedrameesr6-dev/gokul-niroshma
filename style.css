@@ -727,14 +727,7 @@ body.light-theme .tile-number {
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
   position: relative;
   background: var(--bg-card-solid);
-}
-
-.gallery-grid-item.tall {
-  grid-row: span 2;
-}
-
-.gallery-grid-item.wide {
-  grid-column: span 2;
+  aspect-ratio: 3 / 4;
 }
 
 .gallery-grid-item img {
